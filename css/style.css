@@ -1,0 +1,158 @@
+body
+{
+    margin:0;
+    overflow-x: hidden;
+    color:#40514e;
+    
+    
+}
+
+.top-container
+{
+    background-color:#6ec2ba;
+    width:100%;
+    height:750px;
+    position:relative;
+}
+.top-container img
+{   position: relative;
+    bottom:-51px;
+    
+    
+} 
+span
+{
+    position: relative;
+    left:50%;
+    bottom:600px;
+    
+}
+h1
+{   font-size:562.5%; /*100% is 16px and 1em is also 16px*/
+    margin:0 auto 0 auto;
+    font-family: 'Nunito', serif;
+    color:#350b40;
+}
+.top-container p
+{
+    font-family: 'PT Sans', sans-serif;
+    color:#693c72;
+}
+h3
+{
+    color:#f14668;
+}
+h2
+{
+    color:#693c72;
+    padding-bottom:10px;
+    font-size:2.5rem;
+}
+.desc1
+{ 
+    clear:left;
+}
+.intro
+{
+    width:30%;
+    margin:auto;
+}
+.desc2
+{
+    clear:right;
+}
+.middle-container
+{   padding:100px 0;
+    font-family: 'PT Sans', sans-serif;
+    width:100%;
+    position:relative;
+    text-align: center;
+    
+}
+.middle-container img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+}
+.bottom-container
+{
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    
+}
+.contact-message
+{
+    width:40%;
+    margin:40px auto 60px;
+}
+
+.skill-row
+{   margin:100px auto 100px auto;
+    width:50%;
+    text-align:left;
+    line-height:4;
+} 
+hr
+{
+    border:dotted #EF6F6A 6px;
+    border-bottom: none;
+    width:5%;
+    margin :80px auto;
+
+}
+.coding
+{   margin:10px auto 10px auto;
+    width:25%;
+    float:left;
+    margin-right:50px;
+}
+.social-mgmt
+{
+    width:25%;
+    float:right;
+    margin-left: 40px;
+}
+
+.btn
+{
+    background-color: #f0c929;
+    border-radius: 25px;
+    font-family: 'PT Sans', sans-serif; 
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+  
+.btn:hover 
+{
+    background-color: #f14668;
+    cursor: pointer;
+    text-decoration:underline;
+}
+a
+{
+    color: #11999e;
+    font-family: 'PT Sans', sans-serif; 
+    margin : 10px 20px;
+    text-decoration: none;
+} 
+a:hover
+{
+    color:#eaf6f6;
+}
+.btn:active 
+{
+    box-shadow: none;
+    top: 5px;
+}
+.bottom-container
+{
+    background-color:#6ec2ba;
+    padding:50px 0 20px;
+}
+  
